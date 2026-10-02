@@ -1,6 +1,6 @@
 <div align="center">
 
-# Abdibek Ibrakhim
+
 
 ### Building tools for AI coding agents, embedded systems & developer workflows
 
